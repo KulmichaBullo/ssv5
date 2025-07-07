@@ -1,0 +1,25 @@
+<svg width="171" height="147" viewBox="0 0 171 147" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M147.643 145.237L168.522 36.4503L8.44951 1.73105L1.48986 105.889L147.643 145.237Z" fill="white" fill-opacity="0.15" stroke="white" stroke-width="2.8306"/>
+<mask id="mask0_259_2575" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="168" height="145">
+<path d="M147.643 145.237L168.522 36.4503L8.44951 1.73105L1.48986 105.889L147.643 145.237Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_259_2575)">
+<line x1="-59.0495" y1="177.708" x2="13.408" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="-45.4059" y1="177.708" x2="27.0516" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="-31.7624" y1="177.708" x2="40.6952" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="-18.1188" y1="177.708" x2="54.3387" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="-4.47526" y1="177.708" x2="67.9823" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="9.1683" y1="177.708" x2="81.6258" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="22.812" y1="177.707" x2="95.2696" y2="-92.7078" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="36.4554" y1="177.708" x2="108.913" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="50.0993" y1="177.707" x2="122.557" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="63.7428" y1="177.707" x2="136.2" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="77.3864" y1="177.707" x2="149.844" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="91.03" y1="177.707" x2="163.488" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="104.674" y1="177.707" x2="177.131" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="118.317" y1="177.708" x2="190.775" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="131.961" y1="177.707" x2="204.418" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="145.604" y1="177.708" x2="218.062" y2="-92.7076" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+<line x1="159.248" y1="177.707" x2="231.705" y2="-92.7077" stroke="white" stroke-opacity="0.5" stroke-width="2.59517"/>
+</g>
+</svg>
